@@ -1,0 +1,3 @@
+# default policy config
+review: 
+  minimum_commenters: 1
